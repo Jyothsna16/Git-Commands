@@ -1,4 +1,4 @@
-#Git and GitHub command cheat sheet
+# Git and GitHub command cheat sheet
 
 **init**
 
